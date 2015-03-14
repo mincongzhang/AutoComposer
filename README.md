@@ -1,3 +1,8 @@
+Current Problem:
+notes no repetition.  
+Unarycost difficult to design because no composing experience.
+
+
 # AutoComposer
 An idea: use dynamic programming to compose
 
