@@ -23,7 +23,7 @@ close all;
 %               6.4 0.0 6.1 0.8 7.1 2.1 ;...
 %               2.3 2.2 4.9 8.9 1.0 9.8 ];
 
-unaryCosts = abs(randn(20)*1000);
+unaryCosts = abs(rand(10)*50);
 
 %define pairwise costs:  pairwiseCosts(a,b) represents the cost for changing from 
 %disparity level A at pixel j to disparity level B at pixel j+1;
@@ -64,10 +64,10 @@ end;
 plot(1:nX,bestPath,'b-');
 
 %calculate the cost of the path computed
-bestPathCostUnary = sum(unaryCosts(bestPath+(0:nX-1)*nY));
-bestPathCostPairwise = sum(pairwiseCosts(bestPath(1:end-1)+nY*(bestPath(2:end)-1)));
-bestCost = bestPathCostUnary+bestPathCostPairwise;
-fprintf('Path Cost = %3.3f\n',bestCost);
+%bestPathCostUnary = sum(unaryCosts(bestPath+(0:nX-1)*nY));
+%bestPathCostPairwise = sum(pairwiseCosts(bestPath(1:end-1)+nY*(bestPath(2:end)-1)));
+%bestCost = bestPathCostUnary+bestPathCostPairwise;
+%fprintf('Path Cost = %3.3f\n',bestCost);
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Compose!
@@ -77,6 +77,15 @@ notename = {'A' 'A#' 'B' 'C' 'C#' 'D' 'D#' 'E' 'F' 'F#' 'G' 'G#'};
 
 songidx = bestPath;
 dur = 0.3*8192;
+songnote = [];
+for k1 = 1:length(songidx)
+    songnote = [songnote; [notecreate(songidx(k1),dur)  zeros(1,75)]'];
+end
+soundsc(songnote, 8192);
+  
+pause(size(songidx,2)/2);
+
+songidx = songidx+1;
 songnote = [];
 for k1 = 1:length(songidx)
     songnote = [songnote; [notecreate(songidx(k1),dur)  zeros(1,75)]'];
