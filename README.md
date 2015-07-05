@@ -1,7 +1,8 @@
 # DynamicProgrammingComposer
 ### An idea: use dynamic programming to compose  
 
-#### Find out someone has a Markov Composer:   http://zx.rs/3/Markov-Composer---Using-machine-learning-and-a-Markov-chain-to-compose-music/  
+#### Find out someone has a Markov Composer:   
+http://zx.rs/3/Markov-Composer---Using-machine-learning-and-a-Markov-chain-to-compose-music/  
 
 These two approaches have the same drawback: randomly or semi-randomly add a note based on previous (1 or 2) note(s)  
 
