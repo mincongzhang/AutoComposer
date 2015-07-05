@@ -8,7 +8,7 @@ These two approaches have the same drawback: randomly or semi-randomly add a not
 
 However in real music I believe every new note should be based on several previous notes. There should be a trend(like a music wave or stream) in the whole music. Need further consideration. And music should have repetition.  
 
-#### 2015.07.05update  
+#### 2015.07.05 update: find out another approach: RNNs+LTSMs  
 http://www.wise.io/tech/asking-rnn-and-ltsm-what-would-mozart-write
 
 ## Current Problem:
