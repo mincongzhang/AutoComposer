@@ -6,7 +6,7 @@ http://zx.rs/3/Markov-Composer---Using-machine-learning-and-a-Markov-chain-to-co
 
 These two approaches have the same drawback: randomly or semi-randomly add a note based on previous (1 or 2) note(s)  
 
-However in real music I believe every new note should be based on several previous notes. There should be a trend(like a music wave or stream) in the whole music. Need further consideration. And music should have repetition.  
+However in real music I believe every new note should be based on several previous notes. There should be a trend(like a music wave or stream) in the whole music. Need further consideration. And music should have repetition, loop, and concentration(基调).  
 
 #### 2015.07.05 update: find out another approach: RNNs+LTSMs  
 http://www.wise.io/tech/asking-rnn-and-ltsm-what-would-mozart-write
