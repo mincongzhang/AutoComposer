@@ -18,3 +18,4 @@ Unarycost difficult to design because no composing experience.
 reference:  
 http://nlolab.swarthmore.edu/webstuff/phys22/matlabwkshpii/matlabwkshpii.pdf  
 http://uk.mathworks.com/moler/exm/chapters/music.pdf  
+http://www.bilibili.com/video/av1768861/ (编曲)  
