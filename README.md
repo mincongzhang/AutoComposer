@@ -15,7 +15,7 @@ http://www.wise.io/tech/asking-rnn-and-ltsm-what-would-mozart-write
 notes no repetition.  
 Unarycost difficult to design because no composing experience.
 
-## Idea: Aoto rythm generator  
+## Idea: Auto rhythm generator  
 Like the heavy metal washing machine: https://www.youtube.com/watch?v=7pirhdH8DTM
 
 reference:  
