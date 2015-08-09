@@ -1,5 +1,9 @@
-# DynamicProgrammingComposer
-### An idea: use dynamic programming to compose  
+# AutoComposer
+
+#### Composing Music With Recurrent Neural Networks
+https://github.com/hexahedria/biaxial-rnn-music-composition  
+http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/  
+http://gitxiv.com/posts/QP262Yfc7mZCDocPe/composing-music-with-recurrent-neural-networks  
 
 #### Find out someone has a Markov Composer:   
 http://zx.rs/3/Markov-Composer---Using-machine-learning-and-a-Markov-chain-to-compose-music/  
