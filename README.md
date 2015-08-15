@@ -1,11 +1,17 @@
 # AutoComposer
 
+#### Deep learning for assisting the process of music composition
+https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/  
+https://highnoongmt.wordpress.com/2015/08/12/deep-learning-for-assisting-the-process-of-music-composition-part-2/  
+https://highnoongmt.wordpress.com/2015/08/13/deep-learning-for-assisting-the-process-of-music-composition-part-3/  
+https://highnoongmt.wordpress.com/2015/08/15/deep-learning-for-assisting-the-process-of-music-composition-part-4/  
+
 #### Composing Music With Recurrent Neural Networks
 https://github.com/hexahedria/biaxial-rnn-music-composition  
 http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/  
 http://gitxiv.com/posts/QP262Yfc7mZCDocPe/composing-music-with-recurrent-neural-networks  
 
-#### Find out someone has a Markov Composer:   
+####Markov Composer:   
 http://zx.rs/3/Markov-Composer---Using-machine-learning-and-a-Markov-chain-to-compose-music/  
 
 These two approaches have the same drawback: randomly or semi-randomly add a note based on previous (1 or 2) note(s)  
