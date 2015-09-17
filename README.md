@@ -11,6 +11,10 @@ https://github.com/hexahedria/biaxial-rnn-music-composition
 http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/  
 http://gitxiv.com/posts/QP262Yfc7mZCDocPe/composing-music-with-recurrent-neural-networks  
 
+#### DeepHear - Composing and harmonizing music with neural networks
+https://github.com/fephsun/neuralnetmusic  
+http://web.mit.edu/felixsun/www/neural-music.html  
+
 ####Markov Composer:   
 http://zx.rs/3/Markov-Composer---Using-machine-learning-and-a-Markov-chain-to-compose-music/  
 
