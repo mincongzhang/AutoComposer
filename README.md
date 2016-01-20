@@ -21,6 +21,9 @@ http://zx.rs/3/Markov-Composer---Using-machine-learning-and-a-Markov-chain-to-co
 #### RNNs+LTSMs  
 http://www.wise.io/tech/asking-rnn-and-ltsm-what-would-mozart-write
 
+#### Automatic Instrument Identification in Polyphonic Music
+https://github.com/glennq/instrument-recognition
+
 ## Current Problem:
 notes no repetition.  
 Unarycost difficult to design because no composing experience.
