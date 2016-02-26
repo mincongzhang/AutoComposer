@@ -27,6 +27,9 @@ https://github.com/glennq/instrument-recognition
 #### Two Minute Papers - Recurrent Neural Network Writes Music and Shakespeare Novels
 https://www.youtube.com/watch?v=Jkkjy7dVdaY
 
+#### Using machine learning to generate music
+http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music
+
 ## Current Problem:
 notes no repetition.  
 Unarycost difficult to design because no composing experience.
