@@ -24,6 +24,9 @@ http://www.wise.io/tech/asking-rnn-and-ltsm-what-would-mozart-write
 #### Automatic Instrument Identification in Polyphonic Music
 https://github.com/glennq/instrument-recognition
 
+#### Two Minute Papers - Recurrent Neural Network Writes Music and Shakespeare Novels
+https://www.youtube.com/watch?v=Jkkjy7dVdaY
+
 ## Current Problem:
 notes no repetition.  
 Unarycost difficult to design because no composing experience.
