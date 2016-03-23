@@ -30,14 +30,11 @@ https://www.youtube.com/watch?v=Jkkjy7dVdaY
 #### Using machine learning to generate music
 http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music
 
-## Current Problem:
-notes no repetition.  
-Unarycost difficult to design because no composing experience.
+#### LSTMetallica: Generation drum tracks by learning the drum tracks of 60 Metallica songs
+https://keunwoochoi.wordpress.com/2016/02/23/lstmetallica/
 
-## Idea: Auto rhythm generator  
-Like the heavy metal washing machine: https://www.youtube.com/watch?v=7pirhdH8DTM
 
 reference:  
 http://nlolab.swarthmore.edu/webstuff/phys22/matlabwkshpii/matlabwkshpii.pdf  
 http://uk.mathworks.com/moler/exm/chapters/music.pdf  
-http://www.bilibili.com/video/av1768861/ (编曲)  
+
