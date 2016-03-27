@@ -33,6 +33,8 @@ http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-gener
 #### LSTMetallica: Generation drum tracks by learning the drum tracks of 60 Metallica songs
 https://keunwoochoi.wordpress.com/2016/02/23/lstmetallica/
 
+#### Algo Rhythm: Music Composition using Neural Networks
+https://medium.com/@granttimmerman/algo-rhythm-music-composition-using-neural-networks-f89897ff2df7#.8vml3l3sx
 
 reference:  
 http://nlolab.swarthmore.edu/webstuff/phys22/matlabwkshpii/matlabwkshpii.pdf  
