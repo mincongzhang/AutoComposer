@@ -36,6 +36,9 @@ https://keunwoochoi.wordpress.com/2016/02/23/lstmetallica/
 #### Algo Rhythm: Music Composition using Neural Networks
 https://medium.com/@granttimmerman/algo-rhythm-music-composition-using-neural-networks-f89897ff2df7#.8vml3l3sx
 
+#### AI for Music Composition
+https://github.com/llSourcell/AI_For_Music_Composition
+
 reference:  
 http://nlolab.swarthmore.edu/webstuff/phys22/matlabwkshpii/matlabwkshpii.pdf  
 http://uk.mathworks.com/moler/exm/chapters/music.pdf  
